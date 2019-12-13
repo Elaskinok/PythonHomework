@@ -1,7 +1,7 @@
 import pip
 
 REQUIRED_PACKAGES = [
-	'django',
+	'Django==2.2.7',
 	'feedparser',
 	'bs4',
 	'lxml',

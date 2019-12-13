@@ -1,0 +1,9 @@
+Django>=2.0,<3.0
+psycopg2>=2.7,<3.0
+beautifulsoup4==4.6.0
+feedparser==5.2.1
+fpdf==1.7.2
+sqlparse==0.3.0
+termcolor==1.0.0
+image==1.5.27
+requests==2.22.0
